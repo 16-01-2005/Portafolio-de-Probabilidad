@@ -1,24 +1,21 @@
-# 💻 **TEORÍA DE LA PROGRAMACIÓN**  
+# 💻 **TEORÍA DE LA DISTRIBUCIÓN Y PROBABILIDAD**  
 ## 🗂️ *Portafolio Digital de Aprendizaje*  
 
 ---
 
-### 📘 **UNIDAD 1 – Fundamentos de la Programación**  
-📖 *Conceptos básicos, tipos de datos, algoritmos y estructuras iniciales.*
+### 📘 **UNIDAD 1 – INTRODUCCIÓN A LA PROBABILIDAD. MODELOS PROBABILÍSTICOS**  
+📖 *Comprende los conceptos de variable aleatoria y distribución de probabilidad asociada, bajo los principios de solidaridad, transparencia, responsabilidad y honestidad*
 
 🔗 [Ver contenido de la Unidad 1 →](Unidad1/Unidad1.md)
 
 ---
 
-### 💡 **UNIDAD 2 – Estructuras de Control y Algoritmos**  
-🧩 *Estructuras Algorítmicas Condicionales y Estructuras Algorítmicas Repetitivas*
+### 💡 **UNIDAD 2 – Grupos de Variables Aleatorias. Funciones de una Variable Aleatoria**  
+🧩 *Calcula probabilidades y momentos de variables aleatorias discretas, bajo los principios de solidaridad, transparencia, responsabilidad y honestidad.*
 
 🔗 [Ver contenido de la Unidad 2 →](Unidad2/Unidad2.md)
 
 ---
-
-### 🚀 **UNIDAD 3 – Diseño y Optimización de Programas**  
-🛠️ [Ver contenido de la Unidad 3 →](Unidad3/Unidad3.md)
 
 ---
 
