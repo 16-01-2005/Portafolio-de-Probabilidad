@@ -50,12 +50,8 @@
 | Nombre | Descripción | Código | Google Colab | PDF |
 | :--- | :--- | :---: | :---: | :---: |
 | 📁 **Tarea 1** | Ajuste del modelo discreto a fenómeno natural. | [Ver Codigo](AA_1.md) | [Ver Notebook](AA1.ipynb) |— |
-| 📁 **Tarea 2** | Simulación Monte Carlo | — | — | —  |
-| 📁 **Tarea 3** | Resolución de Casos: Resolver 5 problemas del libro de Walpole sobre probabilidad condicional aplicados a fallos en sistemas de red. | — | — | —  |
-| 📁 **Tarea 4** | Clase Invertida: Modelado de eventos independientes en sistemas climáticos (Video). | — | — | —  |
-| 📁 **Tarea 5** | Clasificar las variables de su proyecto en discretas o continuas y definir su rango de valores posibles. | [Ver Codigo](AA_5.md) | [Ver Notebook](AA5.ipynb) | — |
-| 📁 **Tarea 6** | Cálculo de Momentos: Algoritmos para el Cálculo de Momentos y Validación Computacional. | [Ver Codigo](AA_6.md) | [Ver Notebook](AA6.ipynb) | — |
-
+| 📁 **Tarea 2** | Identificación de normalidad en el dataset regional. | [Ver Codigo](AA_2.md) | [Ver Notebook](AA2.ipynb) | —  |
+| 📁 **Tarea 3** | Generación y Aplicación de Aproximaciones Estadísticas en Predicciones a Gran Escala | [Ver Codigo](AA_3.md)  |  [Ver Notebook](AA3.ipynb) | —  |
  
 ### 🧰 APE - Aprendizaje Práctico Experimental
 
