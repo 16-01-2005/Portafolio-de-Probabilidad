@@ -49,7 +49,7 @@
 
 | Nombre | Descripción | Código | Google Colab | PDF |
 | :--- | :--- | :---: | :---: | :---: |
-| 📁 **Tarea 1** | Ajuste del modelo discreto a fenómeno natural. | — | — |— |
+| 📁 **Tarea 1** | Ajuste del modelo discreto a fenómeno natural. | [Ver Codigo](AA1.md) | [Ver Notebook](AA1.ipynb) |— |
 | 📁 **Tarea 2** | Simulación Monte Carlo | — | — | —  |
 | 📁 **Tarea 3** | Resolución de Casos: Resolver 5 problemas del libro de Walpole sobre probabilidad condicional aplicados a fallos en sistemas de red. | — | — | —  |
 | 📁 **Tarea 4** | Clase Invertida: Modelado de eventos independientes en sistemas climáticos (Video). | — | — | —  |
