@@ -35,10 +35,11 @@
 
 ---
 
-### 🧰 **Actividades de Aprendizaje**
-* 📝 Escribir programas básicos que lean y escriban cadenas.  
-* 🔡 Aplicar funciones de `<string.h>` para analizar y modificar texto.  
-* ⚙️ Crear ejercicios que combinen variables, operadores y cadenas.  
+| Descripción | Código | Google Colab |
+| :--- | :---: | :---: |
+| 📊 Unidad 1: Introducción a la Probabilidad y Modelos Probabiles | [Ver Código](Unidad1.md) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/) |
+| 📝 Guía de Actividades Prácticas y Pseudocódigos | [Ver Código](Pseudocodigos.md) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/) |
+| ⚙️ Ejercicios Prácticos y Pruebas de Escritorio en C | [Ver Código](CodigoC.md) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/) |
 
 ### ⚙️ ACD - Aprendizaje Contacto con el Docente 
 * 🔗 [ACD](Aprendizaje.md)
