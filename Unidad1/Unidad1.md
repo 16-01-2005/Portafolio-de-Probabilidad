@@ -35,11 +35,17 @@
 
 ---
 
-| Descripción | Código | Google Colab |
-| :--- | :---: | :---: |
-| 📊 Unidad 1: Introducción a la Probabilidad y Modelos Probabiles | [Ver Código](Unidad1.md) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/) |
-| 📝 Guía de Actividades Prácticas y Pseudocódigos | [Ver Código](Pseudocodigos.md) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/) |
-| ⚙️ Ejercicios Prácticos y Pruebas de Escritorio en C | [Ver Código](CodigoC.md) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/) |
+### 🧰 AA Componentes Autónomos
+
+| Nombre | Descripción | Código | Google Colab |
+| :--- | :--- | :---: | :---: |
+| 📁 **Tarea 1** | Investigar y seleccionar 2 datasets regionales de fuentes oficiales (INEC, GAD Loja o Estaciones UNL) | [Ver Código](Tarea1.md) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/) |
+| 📁 **Tarea 2** | Simulación Monte Carlo | [Ver Código](Tarea2.md) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/) |
+| 📁  **Tarea 3** |Resolución de Casos: Resolver 5 problemas del libro de Walpole sobre probabilidad condicional aplicados a fallos en sistemas de red.| [Ver Código](Lab1.md) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/) |
+| 📁  **Tarea 4** |Clase Invertida: Modelado de eventos independientes en sistemas climáticos. (Video).| [Ver Código](Lab1.md) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/) |
+| 📁  **Tarea 5** |Clasificar las variables de su proyecto en discretas o continuas y definir su rango de valores posibles.| [Ver Código](Lab1.md) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/) |
+| 📁  **Tarea 6** |Cálculo de Momentos: Algoritmos para el Cálculo de Momentos y Validación Computacional| [Ver Código](Lab1.md) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/) |
+
 
 ### ⚙️ ACD - Aprendizaje Contacto con el Docente 
 * 🔗 [ACD](Aprendizaje.md)
