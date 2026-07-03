@@ -70,4 +70,14 @@
 
 ---
 
+### ⚙️ Evaluación Sumativa Unidad 01
+
+| Nombre | Descripción | Dataset | Google Colab | PDF |
+| :--- | :--- | :---: | :---: | :---: |
+| 📁 **Evaluacion Sumativa 1** | Evaluacion Sumativa 1 | [Ver Dataset](ACD1.pdf)  | [Ver Notebook](Examen_1.ipynb)  | [Ver PDF](Examen1.pdf) |
+
+
+---
+
+
 🏠 [Portafolio](portafolio.md)
