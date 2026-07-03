@@ -3,27 +3,32 @@
 > 🧭 *Comprende los conceptos de variable aleatoria y distribución de probabilidad asociada, bajo los principios de solidaridad, transparencia, responsabilidad y honestidad.*
 
 ---
-
 ## 🎯 **Contenidos de Unidad**
+
 * 📊 **Semana 1: Fundamentos y Análisis Descriptivo**
   * 🔤 Tipos de datos: Cualitativos y Cuantitativos.
   * 🎯 Medidas de tendencia central: Media, Mediana y Moda.
   * 📉 Medidas de dispersión: Varianza, Desviación Estándar y Rango.
+
 * 🎲 **Semana 2: Teoría de la Probabilidad**
   * 🌌 Espacios muestrales y eventos: Definición y conceptos clave.
   * 🔮 Enfoques de probabilidad: Clásico, Empírico y Subjetivo.
   * 🧮 Reglas de cálculo: Adición y Multiplicación.
+
 * 🧠 **Semana 3: Probabilidad Condicional e Inferencia Inicial**
   * 🔗 Eventos independientes y dependientes: Relaciones entre variables.
   * 📐 Teorema de Bayes: Su aplicación práctica en la toma de decisiones.
+
 * ⚡ **Semana 4: Introducción a las Variables Aleatorias (V.A.)**
   * 📈 Definición de V.A.: Discretas y Continuas.
   * 📊 Función de Masa de Probabilidad (PMF): Para variables discretas.
   * 📉 Función de Densidad de Probabilidad (PDF): Para variables continuas.
+
 * 🗺️ **Semana 5: Modelado de Distribuciones**
   * 🔄 Concepto de distribución de probabilidad: Comportamiento de los datos.
   * 📐 Función de Distribución Acumulada (CDF): Cálculo de probabilidades acumuladas.
   * 📊 Visualización: Histogramas de densidad.
+
 * 🏛️ **Semana 6: Momentos Estadísticos**
   * 🎲 Esperanza Matemática ($E[X]$): El valor esperado a largo plazo.
   * 📏 Varianza de una Variable Aleatoria ($V[X]$): Medición de la dispersión teórica.
