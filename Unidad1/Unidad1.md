@@ -64,9 +64,9 @@
 
 | Nombre | Descripción | Código | Google Colab | PDF |
 | :--- | :--- | :---: | :---: | :---: |
-| 📁 **ACD 1** | Aporte en clase de la Unidad 01 (grupal) | — | — | [Ver PDF](AA1.pdf) |
-| 📁 **ACD 2** | Aporte en Clase 02 (Teorema de Bayes)| — | — | [Ver PDF](AA2.pdf) |
-| 📁 **ACD 3** | Aporte en Clase 27042026 | — | — | [Ver PDF](AA3.pdf) |
+| 📁 **ACD 1** | Aporte en clase de la Unidad 01 (grupal) | — | — | [Ver PDF](ACD1.pdf) |
+| 📁 **ACD 2** | Aporte en Clase 02 (Teorema de Bayes)| — | — | [Ver PDF](ACD2.pdf) |
+| 📁 **ACD 3** | Aporte en Clase 27042026 | — | — | [Ver PDF](ACD3.pdf) |
 
 ---
 
