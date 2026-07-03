@@ -37,9 +37,9 @@
 
 ### 🧰 AA Componentes Autónomos
 
-| Nombre | Descripción | Código | Google Colab |
-| :--- | :--- | :---: | :---: |
-| 📁 **Tarea 1** | Investigar y seleccionar 2 datasets regionales de fuentes oficiales (INEC, GAD Loja o Estaciones UNL) | [Ver Código](Tarea1.md) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/) |
+| Nombre | Descripción | Código | Google Colab | PDF |
+| :--- | :--- | :---: | :---: | :---: |
+| 📁 **Tarea 1** | Investigar y seleccionar 2 datasets regionales de fuentes oficiales (INEC, GAD Loja o Estaciones UNL) | | |  |
 | 📁 **Tarea 2** | Simulación Monte Carlo | [Ver Código](Tarea2.md) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/) |
 | 📁  **Tarea 3** |Resolución de Casos: Resolver 5 problemas del libro de Walpole sobre probabilidad condicional aplicados a fallos en sistemas de red.| [Ver Código](Lab1.md) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/) |
 | 📁  **Tarea 4** |Clase Invertida: Modelado de eventos independientes en sistemas climáticos. (Video).| [Ver Código](Lab1.md) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/) |
