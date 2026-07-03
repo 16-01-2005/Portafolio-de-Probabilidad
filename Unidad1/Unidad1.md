@@ -40,11 +40,11 @@
 | Nombre | Descripción | Código | Google Colab | PDF |
 | :--- | :--- | :---: | :---: | :---: |
 | 📁 **Tarea 1** | Investigar y seleccionar 2 datasets regionales de fuentes oficiales (INEC, GAD Loja o Estaciones UNL) | | | Unidad1/AA1.pdf |
-| 📁 **Tarea 2** | Simulación Monte Carlo | [Ver Código](Tarea2.md) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/) |
-| 📁  **Tarea 3** |Resolución de Casos: Resolver 5 problemas del libro de Walpole sobre probabilidad condicional aplicados a fallos en sistemas de red.| [Ver Código](Lab1.md) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/) |
-| 📁  **Tarea 4** |Clase Invertida: Modelado de eventos independientes en sistemas climáticos. (Video).| [Ver Código](Lab1.md) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/) |
-| 📁  **Tarea 5** |Clasificar las variables de su proyecto en discretas o continuas y definir su rango de valores posibles.| [Ver Código](Lab1.md) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/) |
-| 📁  **Tarea 6** |Cálculo de Momentos: Algoritmos para el Cálculo de Momentos y Validación Computacional| [Ver Código](Lab1.md) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/) |
+| 📁 **Tarea 2** | Simulación Monte Carlo | | | Unidad1/AA1.pdf |
+| 📁  **Tarea 3** |Resolución de Casos: Resolver 5 problemas del libro de Walpole sobre probabilidad condicional aplicados a fallos en sistemas de red.| | | Unidad1/AA3.pdf |
+| 📁  **Tarea 4** |Clase Invertida: Modelado de eventos independientes en sistemas climáticos. (Video).| | | Unidad1/AA4.pdf |
+| 📁  **Tarea 5** |Clasificar las variables de su proyecto en discretas o continuas y definir su rango de valores posibles.| | [![Open In Colab](Unidad1/AA5.ipynb) | |
+| 📁  **Tarea 6** |Cálculo de Momentos: Algoritmos para el Cálculo de Momentos y Validación Computacional| | [![Open In Colab](Unidad1/AA6.ipynb) | |
 
 
 ### ⚙️ ACD - Aprendizaje Contacto con el Docente 
