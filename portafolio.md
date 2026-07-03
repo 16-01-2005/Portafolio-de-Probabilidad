@@ -6,7 +6,7 @@
 ### 📘 **UNIDAD 1 – INTRODUCCIÓN A LA PROBABILIDAD. MODELOS PROBABILÍSTICOS**  
 📖 *Comprende los conceptos de variable aleatoria y distribución de probabilidad asociada, bajo los principios de solidaridad, transparencia, responsabilidad y honestidad*
 
-🔗 [Ver contenido de la Unidad 1 →](Unidad1/Unidad1)
+🔗 [Ver contenido de la Unidad 1 →](Unidad1)
 
 ---
 
