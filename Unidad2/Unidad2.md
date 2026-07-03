@@ -60,7 +60,7 @@
 | 📁 **APE 6** |Distribuciones Continuas Notables.  | [Ver Codigo](APE_7.md) | [Ver Notebook](APE7.ipynb) |— |
 | 📁 **APE 7** | Distribuciones Muestrales y Teorema del Límite Central (TLC) mediante Simulación Estocástica  | [Ver Codigo](APE_8.md) | [Ver Notebook](APE8.ipynb) |— |
 | 📁 **APE 8** | Inferencia Estadística: Estimación de Parámetros e Intervalos de Confianza (Z y T de Student)  | [Ver Codigo](APE_9.md) | [Ver Notebook](APE9.ipynb) |— |
-| 📁 **APE 9** | Inferencia Estadística: Pruebas de Hipótesis Paramétricas (Z y T) y Análisis del Valor-p| [Ver Codigo](APE_10.md) | [Ver Notebook](APE10.ipynb) |— |
+| 📁 **APE 9** | Inferencia Estadística: Pruebas de Hipótesis Paramétricas (Z y T) y Análisis del Valor-p| [Ver Codigo](APE_10.md) | [Ver Notebook](APE10.ipynb) | [Ver PDF](APE9.pdf)  |
 | 📁 **APE 10** | Inferencia Estadística Multigrupo: Análisis de Varianza (ANOVA de 1 factor) y Pruebas Post-Hoc (Tukey) | [Ver Codigo](APE_11.md) | [Ver Notebook](APE11.ipynb) |— |
  
 
