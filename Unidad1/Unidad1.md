@@ -39,7 +39,7 @@
 
 | Nombre | Descripción | Código | Google Colab | PDF |
 | :--- | :--- | :---: | :---: | :---: |
-| 📁 **Tarea 1** | Investigar y seleccionar 2 datasets regionales de fuentes oficiales (INEC, GAD Loja o Estaciones UNL) | | | Unidad1/AA1.pdf |
+| 📁 **Tarea 1** | Investigar y seleccionar 2 datasets regionales de fuentes oficiales (INEC, GAD Loja o Estaciones UNL) | | | AA1.pdf |
 | 📁 **Tarea 2** | Simulación Monte Carlo | | | Unidad1/AA1.pdf |
 | 📁  **Tarea 3** |Resolución de Casos: Resolver 5 problemas del libro de Walpole sobre probabilidad condicional aplicados a fallos en sistemas de red.| | | Unidad1/AA3.pdf |
 | 📁  **Tarea 4** |Clase Invertida: Modelado de eventos independientes en sistemas climáticos. (Video).| | | Unidad1/AA4.pdf |
