@@ -47,18 +47,21 @@
 | 📁 **Tarea 5** | Clasificar las variables de su proyecto en discretas o continuas y definir su rango de valores posibles. | [Ver Codigo](AA_5.md) | [Ver Notebook](AA5.ipynb) | — |
 | 📁 **Tarea 6** | Cálculo de Momentos: Algoritmos para el Cálculo de Momentos y Validación Computacional. | [Ver Codigo](AA_6.md) | [Ver Notebook](AA6.ipynb) | — |
 
+ 
+### 🧰 APE - Aprendizaje Práctico Experimental
+
+| Nombre | Descripción | Código | Google Colab | PDF |
+| :--- | :--- | :---: | :---: | :---: |
+| 📁 **APE 0** | APE00: Fundamentos de Probabilidad y Espacios Muestrales | — | — | [Ver PDF](AA1.pdf) |
+| 📁 **APE 1** | Variables Aleatorias y Distribuciones de Probabilidad  | — | — | [Ver PDF](AA2.pdf) |
+| 📁 **APE 2** | Distribuciones Muestrales y Teorema del Limite Central. | — | — | [Ver PDF](AA3.pdf) |
+| 📁 **APE 3** | Variables Aleatorias Discretas y Continuas | — | — | [Ver PDF](AA4.pdf) |
+| 📁 **APE 4** | Momentos Estadísticos y Análisis de Tendencia Central con Python | [Ver Codigo](AA_5.md) | [Ver Notebook](AA5.ipynb) | — |
+| 📁 **APE 5** |  Distribuciones Discretas Notables.| [Ver Codigo](AA_6.md) | [Ver Notebook](AA6.ipynb) | — |
+ 
 
 ### ⚙️ ACD - Aprendizaje Contacto con el Docente 
 * 🔗 [ACD](Aprendizaje.md)
-  
-### 🧰 APE - Aprendizaje Práctico Experimental
-* 🗂️ [Juegos de Aprendizaje Práctico Experimental](Experimental.md)
-* APE1. Primer acercamiento a la construcción de algoritmos con estructuras secuenciales en pseudocódigo
-  * 🗂️ [APE 1.](APE1.pdf)
-* APE2. Del diseño del algoritmo con estructuras secuenciales a la construcción del programa
-  * 🗂️ [APE 2.](APE2.pdf)
-* Debugging Challenge: “Cazadores de Bugs” 
-  * 🗂️ [Cazadores de bugs](Bugs.pdf)
 
 ### 🧰 AA - Aprendizaje Autónomo 
 * AA 1. Herramienta digital para pseudocódigo y diagrama de flujo
