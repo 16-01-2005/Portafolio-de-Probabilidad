@@ -61,13 +61,12 @@
  
 
 ### ⚙️ ACD - Aprendizaje Contacto con el Docente 
-* 🔗 [ACD](Aprendizaje.md)
 
-### 🧰 AA - Aprendizaje Autónomo 
-* AA 1. Herramienta digital para pseudocódigo y diagrama de flujo
-  * 🗂️ [Tarea 1](Tarea1.pdf)
-* AA 2. Instalación de lenguajes de programación
-  * 🗂️ [Tarea 2](Tarea2.pdf)
+| Nombre | Descripción | Código | Google Colab | PDF |
+| :--- | :--- | :---: | :---: | :---: |
+| 📁 **ACD 1** | Aporte en clase de la Unidad 01 (grupal) | — | — | [Ver PDF](AA1.pdf) |
+| 📁 **ACD 2** | Aporte en Clase 02 (Teorema de Bayes)| — | — | [Ver PDF](AA2.pdf) |
+| 📁 **ACD 3** | Aporte en Clase 27042026 | — | — | [Ver PDF](AA3.pdf) |
 
 ---
 
