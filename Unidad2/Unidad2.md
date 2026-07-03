@@ -49,10 +49,10 @@
 
 | Nombre | Descripción | Código | Google Colab | PDF |
 | :--- | :--- | :---: | :---: | :---: |
-| 📁 **Tarea 1** | Investigar y seleccionar 2 datasets regionales de fuentes oficiales (INEC, GAD Loja o Estaciones UNL) | — | — | [Ver PDF](AA1.pdf) |
-| 📁 **Tarea 2** | Simulación Monte Carlo | — | — | [Ver PDF](AA2.pdf) |
-| 📁 **Tarea 3** | Resolución de Casos: Resolver 5 problemas del libro de Walpole sobre probabilidad condicional aplicados a fallos en sistemas de red. | — | — | [Ver PDF](AA3.pdf) |
-| 📁 **Tarea 4** | Clase Invertida: Modelado de eventos independientes en sistemas climáticos (Video). | — | — | [Ver PDF](AA4.pdf) |
+| 📁 **Tarea 1** | Ajuste del modelo discreto a fenómeno natural. | — | — |— |
+| 📁 **Tarea 2** | Simulación Monte Carlo | — | — | —  |
+| 📁 **Tarea 3** | Resolución de Casos: Resolver 5 problemas del libro de Walpole sobre probabilidad condicional aplicados a fallos en sistemas de red. | — | — | —  |
+| 📁 **Tarea 4** | Clase Invertida: Modelado de eventos independientes en sistemas climáticos (Video). | — | — | —  |
 | 📁 **Tarea 5** | Clasificar las variables de su proyecto en discretas o continuas y definir su rango de valores posibles. | [Ver Codigo](AA_5.md) | [Ver Notebook](AA5.ipynb) | — |
 | 📁 **Tarea 6** | Cálculo de Momentos: Algoritmos para el Cálculo de Momentos y Validación Computacional. | [Ver Codigo](AA_6.md) | [Ver Notebook](AA6.ipynb) | — |
 
