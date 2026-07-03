@@ -55,7 +55,7 @@
 | 📁 **APE 0** | APE00: Fundamentos de Probabilidad y Espacios Muestrales | — | — | [Ver PDF](APE0.pdf) |
 | 📁 **APE 1** | Variables Aleatorias y Distribuciones de Probabilidad  | — | — | [Ver PDF](APE01.pdf) |
 | 📁 **APE 2** | Distribuciones Muestrales y Teorema del Limite Central. | — | — | [Ver PDF](APE02.pdf) |
-| 📁 **APE 3** | Variables Aleatorias Discretas y Continuas | — | [Ver Notebook](APE03.ipynb) | — |
+| 📁 **APE 3** | Variables Aleatorias Discretas y Continuas | [Ver Codigo](APE03.md) | [Ver Notebook](APE03.ipynb) | — |
 | 📁 **APE 4** | Momentos Estadísticos y Análisis de Tendencia Central con Python | [Ver Codigo](APE4.md) | [Ver Notebook](APE04.ipynb)| — |
 | 📁 **APE 5** |  Distribuciones Discretas Notables.| [Ver Codigo](APE_05.md) | [Ver Notebook](APE05.ipynb) | — | 
  
