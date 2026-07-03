@@ -57,12 +57,11 @@
 
 | Nombre | Descripción | Código | Google Colab | PDF |
 | :--- | :--- | :---: | :---: | :---: |
-| 📁 **APE 0** | APE00: Fundamentos de Probabilidad y Espacios Muestrales | — | — | [Ver PDF](APE0.pdf) |
-| 📁 **APE 1** | Variables Aleatorias y Distribuciones de Probabilidad  | — | — | [Ver PDF](APE01.pdf) |
-| 📁 **APE 2** | Distribuciones Muestrales y Teorema del Limite Central. | — | — | [Ver PDF](APE02.pdf) |
-| 📁 **APE 3** | Variables Aleatorias Discretas y Continuas | [Ver Codigo](APE03.md) | [Ver Notebook](APE03.ipynb) | — |
-| 📁 **APE 4** | Momentos Estadísticos y Análisis de Tendencia Central con Python | [Ver Codigo](APE4.md) | [Ver Notebook](APE04.ipynb)| — |
-| 📁 **APE 5** |  Distribuciones Discretas Notables.| [Ver Codigo](APE_05.md) | [Ver Notebook](APE05.ipynb) | — | 
+| 📁 **APE 6** |Distribuciones Continuas Notables.  | [Ver Codigo](APE_7.md) | [Ver Notebook](APE7.ipynb) |— |
+| 📁 **APE 7** | Distribuciones Muestrales y Teorema del Límite Central (TLC) mediante Simulación Estocástica  | [Ver Codigo](APE_8.md) | [Ver Notebook](APE8.ipynb) |— |
+| 📁 **APE 8** | Inferencia Estadística: Estimación de Parámetros e Intervalos de Confianza (Z y T de Student)  | [Ver Codigo](APE_9.md) | [Ver Notebook](APE9.ipynb) |— |
+| 📁 **APE 9** | Inferencia Estadística: Pruebas de Hipótesis Paramétricas (Z y T) y Análisis del Valor-p| [Ver Codigo](APE_10.md) | [Ver Notebook](APE10.ipynb) |— |
+| 📁 **APE 10** | Inferencia Estadística Multigrupo: Análisis de Varianza (ANOVA de 1 factor) y Pruebas Post-Hoc (Tukey) | [Ver Codigo](APE_11.md) | [Ver Notebook](APE11.ipynb) |— |
  
 
 ### ⚙️ ACD - Aprendizaje Contacto con el Docente 
