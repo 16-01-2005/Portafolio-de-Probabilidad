@@ -57,7 +57,7 @@
 | 📁 **APE 2** | Distribuciones Muestrales y Teorema del Limite Central. | — | — | [Ver PDF](APE02.pdf) |
 | 📁 **APE 3** | Variables Aleatorias Discretas y Continuas | — | — | [Ver PDF](APE03.pdf) |
 | 📁 **APE 4** | Momentos Estadísticos y Análisis de Tendencia Central con Python | [Ver Codigo](APE_04.ipnb) | [Ver Notebook](APE04.ipynb)| — |
-| 📁 **APE 5** |  Distribuciones Discretas Notables.| [Ver Codigo](APE_5.md) | [Ver Notebook](APE05.ipynb) | — | 
+| 📁 **APE 5** |  Distribuciones Discretas Notables.| [Ver Codigo](APE_05.md) | [Ver Notebook](APE05.ipynb) | — | 
  
 
 ### ⚙️ ACD - Aprendizaje Contacto con el Docente 
