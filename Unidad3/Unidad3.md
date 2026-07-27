@@ -1,47 +1,36 @@
-# 📘 UNIDAD 2 — Grupos de Variables Aleatorias. Funciones de una Variable Aleatoria
+# 📘 UNIDAD 3 — Ley de Grandes Números y Distribuciones Muestrales
  
-> 🧭 *Comprende los conceptos de variable aleatoria y distribución de probabilidad asociada, bajo los principios de solidaridad, transparencia, responsabilidad y honestidad.*
+> 🧭 *Comprende los conceptos de variable aleatoria multidimensional y distribución de probabilidad asociada, bajo los principios de solidaridad, transparencia, responsabilidad y honestidad.*
 
 ---
-# 🎲 **Estudio Avanzado de Probabilidad y Modelos de Distribución**
-
----
-
-## 📈 **Variables Aleatorias Discretas Notables**
-* 🔬 **Estudio a fondo y modelado:** Análisis detallado del comportamiento de variables cuantitativas discretas.
-* 📊 **Funciones Clave:** Implementación y cálculo de:
-  * **PMF** (*Función de Masa de Probabilidad*)
-  * **CDF** (*Función de Distribución Acumulada*)
-* 🧮 **Modelos Matemáticos:**
-  * 🎯 **Distribución Binomial:** Éxitos y fracasos en experimentos independientes.
-  * ⏱️ **Distribución de Poisson:** Modelado de eventos en intervalos continuos de tiempo o espacio.
+# 📊 **Distribuciones Muestrales y Fundamentos Teóricos**
 
 ---
 
-## 🔔 **Variables Aleatorias Continuas Notables**
-* 🗺️ **La Distribución Normal:** Estudio exhaustivo de la conocida *Campana de Gauss*.
-* ⚙️ **Propiedades y Estandarización:** Métodos para transformar cualquier variable normal a la escala estándar.
-* 📋 **Uso de la Tabla Z:** Consulta y cálculo preciso de probabilidades acumuladas bajo la curva.
+## 📈 **Distribuciones Muestrales**
+* 🔬 **Conceptos Fundamentales:** Explicación y modelado de la naturaleza de las distribuciones muestrales.
+* 📊 **Análisis de Parámetros:** Desglose riguroso del comportamiento de:
+  * 🎯 **Medias Muestrales:** Estimación del promedio poblacional a partir de subconjuntos de datos.
+  * ⚖️ **Proporciones Muestrales:** Evaluación de porcentajes y frecuencias relativas en muestras.
+* 🧮 **Error Estándar:** Revisión de problemas específicos sobre el cálculo, reducción y comportamiento del error estándar ($\sigma_{\bar{x}}$).
 
 ---
 
-## ⚡ **Teoremas de Aproximación**
-* 🔄 **Aproximación Normal de la Binomial:** Criterios para simplificar modelos binomiales grandes usando la distribución continua.
-* 🔮 **Teorema del Límite Central (TLC):** Validación del comportamiento asintótico de las medias muestrales mediante **simulación estocástica**.
+## ⚡ **Inferencia del Teorema del Límite Central (TLC)**
+* 📐 **Deducción Matemática:** Inferencia formal y comportamiento asintótico de las sumas y medias muestrales.
+* 🌐 **Aplicaciones Prácticas:** Implementación de la distribución muestral de medias para la toma de decisiones en entornos reales.
 
 ---
 
-## 🧠 **Inferencia Estadística y Pruebas de Hipótesis**
-* 📐 **Estimación de Parámetros:** Construcción y cálculo de **Intervalos de Confianza** usando:
-  * 🔤 Distribución Z
-  * 🎓 Distribución T de Student
-* ⚖️ **Pruebas de Hipótesis Paramétricas:** Estructuración de hipótesis nulas ($H_0$) y alternativas ($H_1$), junto al análisis crítico del **valor-p** (*p-value*).
-* 🧪 **Pruebas para Dos Muestras:**
-  * 📊 **A/B Testing:** Evaluación comparativa de dos variantes o grupos independientes.
-  * 🔗 **Muestras Pareadas:** Análisis de datos antes y después sobre un mismo sujeto.
-* 📉 **Análisis de Varianza (ANOVA de un factor):** Comparación simultánea de medias para tres o más grupos independientes.
-* 🔍 **Pruebas Post Hoc (Tukey):** Identificación exacta de cuáles grupos presentan diferencias significativas tras rechazar la hipótesis del ANOVA.
+## 🔍 **Análisis de Casos Estadísticos**
+* 👥 **Resolución Guiada:** Solución analítica a problemas individuales y grupales enfocados en distribuciones muestrales.
+* 🧪 **Estudios Aplicados:** Evaluación práctica de escenarios de muestreo y variabilidad.
 
+---
+
+## 🎓 **Evaluación Final y Retroalimentación de la Unidad**
+* 📋 **Revisión Integral:** Espacio de síntesis y consolidación de los contenidos teóricos de la unidad.
+* 🛠️ **Guía Metodológica:** Ajuste, orientación y estructuración del trabajo final para la presentación del proyecto didáctico de la asignatura.
 ---
 
 ### 🧰 APE - Aprendizaje Práctico Experimental
