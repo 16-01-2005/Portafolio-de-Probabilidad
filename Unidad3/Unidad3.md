@@ -48,11 +48,11 @@
 
 | Nombre | Descripción | Código | Google Colab | PDF |
 | :--- | :--- | :---: | :---: | :---: |
-| 📁 **APE 11** | Inferencia Estadística Multigrupo: Análisis de Varianza (ANOVA de 1 factor) y Pruebas Post-Hoc (Tukey)  | [Ver Codigo](APE_7.md) | [Ver Notebook](APE7.ipynb) |— 1111
-| 📁 **APE 12** | (Análisis Bivariado y Predicción): Implementación de la Correlación de Pearson y ajuste del Modelo de Regresión Lineal Simple por Mínimos Cuadrados Ordinarios (OLS).  | [Ver Codigo](APE_8.md) | [Ver Notebook](APE8.ipynb) |— |
-| 📁 **APE 13** | (Análisis Predictivo Multivariado): Desarrollo de modelos de Regresión Lineal Múltiple y diagnóstico de colinealidad mediante el Factor de Inflación de la Varianza (VIF).  | [Ver Codigo](APE_9.md) | [Ver Notebook](APE9.ipynb) |— |
-| 📁 **APE 14** |  (Modelado Probabilístico Avanzado): Programación de algoritmos de Regresión Logística, clasificación binaria de eventos y evaluación de matrices de confusión.| [Ver Codigo](APE_10.md) | [Ver Notebook](APE10.ipynb) | [Ver PDF](APE9.pdf)  |
-| 📁 **APE 15** | (Evaluación Avanzada de Modelos): Construcción de curvas ROC, cálculo del Área Bajo la Curva (métrica AUC) y validación cruzada mediante técnicas de K-Fold. | [Ver Codigo](APE_10.md) | [Ver Notebook](APE10.ipynb) |— |
+| 📁 **APE 11** | Inferencia Estadística Multigrupo: Análisis de Varianza (ANOVA de 1 factor) y Pruebas Post-Hoc (Tukey)  | [Ver Codigo](APE12.md) | [Ver Notebook](APE12.ipynb) |— 1111
+| 📁 **APE 12** | (Análisis Bivariado y Predicción): Implementación de la Correlación de Pearson y ajuste del Modelo de Regresión Lineal Simple por Mínimos Cuadrados Ordinarios (OLS).  | [Ver Codigo](APE13.md) | [Ver Notebook](APE013.ipynb) |— |
+| 📁 **APE 13** | (Análisis Predictivo Multivariado): Desarrollo de modelos de Regresión Lineal Múltiple y diagnóstico de colinealidad mediante el Factor de Inflación de la Varianza (VIF).  | [Ver Codigo](APE14.md) | [Ver Notebook](APE014.ipynb) |— |
+| 📁 **APE 14** |  (Modelado Probabilístico Avanzado): Programación de algoritmos de Regresión Logística, clasificación binaria de eventos y evaluación de matrices de confusión.| [Ver Codigo](APE_10.md) | [Ver Notebook](APE15.ipynb) | [Ver PDF](APE015.pdf)  |
+| 📁 **APE 15** | (Evaluación Avanzada de Modelos): Construcción de curvas ROC, cálculo del Área Bajo la Curva (métrica AUC) y validación cruzada mediante técnicas de K-Fold. | [Ver Codigo](APE16.md) | [Ver Notebook](APE016.ipynb) |— |
  
 
 
